@@ -1,0 +1,1 @@
+<mura name="masaClientTemplate" contenttypes="*" iconclass="mi-rebel"/>
